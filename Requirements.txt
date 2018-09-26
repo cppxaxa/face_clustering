@@ -1,0 +1,9 @@
+Following python libraries
+--------------------------
+face_recognition
+imutils
+argparse
+pickle
+cv2 (opencv)
+sklearn
+numpy
